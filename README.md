@@ -127,8 +127,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/amansingh122
 
 * **Aman Singh** - *Computer Science Student* - [Aman Singh](https://github.com/amansingh1221/) - *Developed Weather-Dekho*
 
-## Acknowledgements
-
-* []()
-* [](Best-README-Template)
-* []()
