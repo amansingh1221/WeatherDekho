@@ -1,5 +1,22 @@
 .App {
   text-align: center;
+
+    -moz-user-select:none; /* firefox */
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE*/
+    user-select: none; /* Standard syntax */
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+
+}
+
+*{
+    -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+    display: none;
 }
 
 .App-logo {
@@ -36,3 +53,9 @@
     transform: rotate(360deg);
   }
 }
+img {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  }
